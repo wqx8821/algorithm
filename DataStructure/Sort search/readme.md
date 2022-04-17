@@ -76,3 +76,10 @@ arr.insertionSort()
 
 
 
+
+二分查找O(logn)
+
+
+
+
+
